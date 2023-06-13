@@ -1,0 +1,24 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.principal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 1000px;
+
+
+}
+
+.segundario {
+    display: flex;
+    border: 10px solid rgb(109, 64, 135);
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: rgba(124, 123, 125, 0.939);
+
+}
